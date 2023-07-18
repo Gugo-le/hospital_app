@@ -201,7 +201,14 @@
 3. React Js
  ``
 감기 진단 알고리즘을 제작하였고, 앱 내의 Diagnose Page를 웹 뷰를 통해 구현함
- ``
+
+``
+
+
+<img src = "assets/imgmd/IMG_5451.PNG" width = "200">
+<img src = "assets/imgmd/IMG_5454.PNG" width = "200">  
+<img src = "assets/imgmd/IMG_5447.PNG" width = "200"> 
+ 
 4. Flutter
   ``
    돌아다니는 로봇 의사 "무빙이" 전용 앱을 만들 때 사용한 프레임 워크
