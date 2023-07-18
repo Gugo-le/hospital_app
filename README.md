@@ -205,9 +205,11 @@
 ``
 
 
-<img src = "assets/imgmd/IMG_5451.PNG" width = "200">
-<img src = "assets/imgmd/IMG_5454.PNG" width = "200">  
-<img src = "assets/imgmd/IMG_5447.PNG" width = "200"> 
+<figure class="thrid">
+  <a href="link"><img src="assets/imgmd/IMG_5451.PNG" width = "200"></a>
+  <a href="link"><img src="assets/imgmd/IMG_5454.PNG" width = "200"></a>
+  <a href="link"><img src="assets/imgmd/IMG_5447.PNG" width = "200"></a>
+</figure>
  
 4. Flutter
   ``
